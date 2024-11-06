@@ -13,6 +13,9 @@ Vole Machine Simulator is a graphical application built with C++ and the Qt libr
 
 ## Getting Started
 
+### UML Design
+![UML Design](https://github.com/user-attachments/assets/a7f19575-d17b-4e2e-9e7c-c382221a3544)
+
 ### Prerequisites
 
 - **C++ Compiler**: Ensure you have a modern C++ compiler installed (e.g., GCC, Clang, or MSVC).
